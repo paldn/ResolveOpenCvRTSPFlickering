@@ -1,0 +1,5 @@
+﻿  clockIndentify.cpp
+clockIndentify.cpp(59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  clockIndentify.vcxproj -> C:\Users\Paldin\Desktop\clockIndentify\Release\clockIndentify.exe
+  clockIndentify.vcxproj -> C:\Users\Paldin\Desktop\clockIndentify\Release\clockIndentify.pdb (Full PDB)
